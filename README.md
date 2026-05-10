@@ -258,7 +258,6 @@ Fake-News-Detection/
 │
 ├── FakeNews.ipynb
 ├── README.md
-├── requirements.txt
 ├── FakeNewsPresentation.pdf
 │
 ├── images/
@@ -312,16 +311,6 @@ G Santosh Kumar
 <li>Rithika M L</li>
 <li>P Meghana</li>
 </ul>
-
-<hr>
-
-<h2>🔗 GitHub Repository</h2>
-
-<p>
-<a href="https://github.com/Meghana-P15/ML-fake_news_detection" target="_blank">
-Open GitHub Repository
-</a>
-</p>
 
 <hr>
 
