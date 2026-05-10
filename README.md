@@ -224,7 +224,7 @@ problem statement, implementation, and evaluation can be viewed below:
 </p>
 
 <p>
-<a href="FakeNewsPresentation.pdf" target="_blank">
+<a href="ai.pdf" target="_blank">
 📎 View Project Presentation PDF
 </a>
 </p>
