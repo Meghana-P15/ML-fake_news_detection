@@ -157,25 +157,25 @@ CountVectorizer()
 
 <li><h3>📈 Text Length Distribution Histogram</h3></li>
 
-<img src="images/histogram.png" width="700">
+<img src="Histogram.png" width="700">
 
 <br><br><br>
 
 <li><h3>🧩 Confusion Matrix</h3></li>
 
-<img src="images/ConfusionMatrix.png" width="700">
+<img src="ConfusionMatrix.png" width="700">
 
 <br><br><br>
 
 <li><h3>🥧 Fake vs Real News Distribution</h3></li>
 
-<img src="images/ValueCount.png" width="700">
+<img src="ValueCount.png" width="700">
 
 <br><br><br>
 
 <li><h3>☁️ Word Cloud Visualization</h3></li>
 
-<img src="images/WordCloud.png" width="700">
+<img src="WordCloud.png" width="700">
 
 </ul>
 
@@ -224,7 +224,7 @@ problem statement, implementation, and evaluation can be viewed below:
 </p>
 
 <p>
-<a href="ai.pdf" target="_blank">
+<a href="https://github.com/Meghana-P15/ML-fake_news_detection/blob/main/aI.pdf" target="_blank">
 📎 View Project Presentation PDF
 </a>
 </p>
@@ -259,12 +259,10 @@ Fake-News-Detection/
 ├── FakeNews.ipynb
 ├── README.md
 ├── FakeNewsPresentation.pdf
-│
-├── images/
-│   ├── histogram.png
-│   ├── ConfusionMatrix.png
-│   ├── ValueCount.png
-│   └── WordCloud.png
+│── histogram.png
+│── ConfusionMatrix.png
+│── ValueCount.png
+│── WordCloud.png
 
 </pre>
 
